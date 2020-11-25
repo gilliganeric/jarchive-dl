@@ -1,6 +1,5 @@
-import requests, pprint, json, time
+import requests, pprint, json, time, datetime
 import dateutil.parser as parser
-import datetime
 from collections import defaultdict
 from bs4 import BeautifulSoup
 
